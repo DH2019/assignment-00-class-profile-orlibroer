@@ -1,0 +1,14 @@
+{
+  "firstName": "Orli",
+  "lastName": "Broer",
+  "nickName": "orshmore",
+  "privateName": false,
+  "picture": "images/orlibroer.jpg",
+  "privatePicture": false,
+  "email": "student@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "orlibroer",
+  "privateGithub": false,
+  "superpower" : "soon-to-be starbucks gold member",
+  "academicinterests": "Ancient stuff"
+}
